@@ -62,7 +62,8 @@ void loop()
 <img width="360" alt="Screenshot 2024-03-21 113851" src="https://github.com/Loshini2301/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/150007305/bb74d69b-251d-418c-a83a-453acc49359f">
 <img width="248" alt="Screenshot 2024-03-21 113900" src="https://github.com/Loshini2301/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/150007305/fb4acfeb-2e18-4c4b-a3d7-adc7468dc470"
 
-### STIMULATION REPRESENTATION
+
+### STIMULATION REPRESENTATION:
 <img width="457" alt="Screenshot 2024-03-21 114245" src="https://github.com/Loshini2301/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/150007305/0a2f2f80-6adb-437f-bde7-20e8e18dd658">
 
 ### RESULTS 
